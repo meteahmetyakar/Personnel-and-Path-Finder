@@ -1,6 +1,6 @@
 % Defines delivery personnel with their ID, capacity, working hours, current object, and location.
-deliveryPersonel(dp1, 10, [8, 16], obj2, 3).
-deliveryPersonel(dp2, 15, [9, 17], none, 4).
+deliveryPersonel(dp1, 10, [8, 16], obj6, 3).
+deliveryPersonel(dp2, 15, [9, 17], obj7, 4).
 deliveryPersonel(dp3, 20, [10, 18], none, 1).
 deliveryPersonel(dp4, 12, [11, 19], none, 5).
 deliveryPersonel(dp5, 18, [8, 17], none, 2).
